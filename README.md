@@ -1,14 +1,19 @@
 ## Bio
-ESP/ENG
-Un joven apasionado por la programación y el software, que dedica sus estudios y parte de su tiempo libre a ello. Mi sueño es ser un game designer
-A young man who loves programation and software, which spends his career and some free time to that. My dream is to be a game designer.
+<p align="flex">
+  <p>
+  ESP/ENG
+  Un joven apasionado por la programación y el software, que dedica sus estudios y parte de su tiempo libre a ello. Mi sueño es ser un game designer
+  A young man who loves programation and software, which spends his career and some free time to that. My dream is to be a game designer.
+  </p>
+  <img style="width: 200px;" src="./fotoDePerfil.jpg" alt="foto de perfil | profile picture" />
+</p>
 
-<img style="width: 200px;" src="./fotoDePerfil.jpg" alt="foto de perfil | profile picture" />
 
 
 ## Estudios y Conocimientos obtenidos | Studies and Knowledge obtained
 
 **Team vscode**
+<br>
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 ### Desarrollo de Aplicaciones Web | Development of Web Services

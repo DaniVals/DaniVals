@@ -3,7 +3,7 @@ ESP/ENG
 Un joven apasionado por la programación y el software, que dedica sus estudios y parte de su tiempo libre a ello. Mi sueño es ser un game designer
 A young man who loves programation and software, which spends his career and some free time to that. My dream is to be a game designer.
 
-<img style="width: 100px;" src="./fotoDePerfil.jpg" alt="foto de perfil | profile picture" />
+<img style="width: 200px;" src="./fotoDePerfil.jpg" alt="foto de perfil | profile picture" />
 
 
 ## Estudios y Conocimientos obtenidos | Studies and Knowledge obtained
@@ -12,14 +12,17 @@ A young man who loves programation and software, which spends his career and som
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 ### Desarrollo de Aplicaciones Web | Development of Web Services
+<p align="flex">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <br>
+</p>
+<p align="flex">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=docker" />
+</p>
 
 
 ## Proyectos | Projects

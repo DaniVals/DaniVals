@@ -30,10 +30,14 @@
 </p>
 
 #### Open Webinars 
-<p align="flex">
-  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank"> <img style="width: 200px;" src="./fotos OpenWebinars/fow-python.png"></a>
-  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank"> <img style="width: 200px;" src="./fotos OpenWebinars/fow-git.png"></a>
-</p>
+<div style="display: flex;">
+  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank" > 
+    <img style="width: 100px;" src="./fotos OpenWebinars/fow-python.png">
+  </a>
+  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank" > 
+    <img style="width: 100px;" src="./fotos OpenWebinars/fow-git.png">
+  </a>
+</div>
 
 
 ## Proyectos | Projects

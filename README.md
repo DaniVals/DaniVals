@@ -16,7 +16,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=vscode" />
 
-### Desarrollo de Aplicaciones Web | Development of Web Services
+#### Desarrollo de Aplicaciones Web | Development of Web Services
 <p align="flex">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=javascript" />
@@ -27,6 +27,12 @@
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+#### Open Webinars 
+<p align="flex">
+  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank"> <img style="width: 200px;" src="./fotos OpenWebinars/fow-python.png"></a>
+  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank"> <img style="width: 200px;" src="./fotos OpenWebinars/fow-git.png"></a>
 </p>
 
 

@@ -27,17 +27,9 @@
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-#### Open Webinars 
-<div style="display: flex;">
-  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank" > 
-    <img style="width: 100px;" src="./fotos OpenWebinars/fow-python.png">
-  </a>
-  <a align="center" href="./certificados OpenWebinars/certificado_onboarding_de_becas_openwebinars.pdf" target="_blank" > 
-    <img style="width: 100px;" src="./fotos OpenWebinars/fow-git.png">
-  </a>
-</div>
 
 
 ## Proyectos | Projects

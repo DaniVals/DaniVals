@@ -39,7 +39,8 @@
 
 ## Contacto | contact
 <p align="flex">
-  <a align="center" href="./CV_Daniel_Vals_Simon.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-Currículum-silver"></a>
+  <a align="center" href="./CV_Daniel_Vals_Simon_ES.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-Currículum-silver"></a>
+  <a align="center" href="./CV_Daniel_Vals_Simon_EN.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-Resume-silver"></a>
   <a align="center" href="https://linktr.ee/danielVals" target="_blank"><img src="https://img.shields.io/badge/linktree-danielVals-green_"></a>
   <a align="center" href="mailto:daniel.vals.simon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-daniel.vals.simon@gmail.com-red"></a>
   <br>

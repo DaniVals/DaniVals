@@ -1,8 +1,8 @@
 ## Bio
 <div style="display: flex; align-items: center;">
 	<p>
-		ESP/ENG
-		Un joven apasionado por la programación y el software, que dedica sus estudios y parte de su tiempo libre a ello. Mi sueño es ser un game designer
+		ESP/ENG <br>
+		Un joven apasionado por la programación y el software, que dedica sus estudios y parte de su tiempo libre a ello. Mi sueño es ser un game designer. <br>
 		A young man who loves programation and software, which spends his career and some free time to that. My dream is to be a game designer.
 	</p>
 </div>

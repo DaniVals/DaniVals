@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center;">
 	<p>
 		Estoy apasionado por la programación y el software, dedico mi carrera y parte de mi tiempo libre a ello. Mi sueño es ser un game designer. <br>
-		I'm passionate about programming and software, I spend my career and some free time to that. My dream is to be a game designer.
+		I'm passionate about programming and software, I dedicate my career and some free time to that. My dream is to be a game designer.
 	</p>
 </div>
 

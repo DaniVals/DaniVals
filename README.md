@@ -7,8 +7,10 @@
 </div>
 
 #### Team vscode
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=obsidian" />
+<p align="flex">
+	<img src="https://skillicons.dev/icons?i=vscode" />
+	<img src="https://skillicons.dev/icons?i=obsidian" />
+</p>
 
 
 ## Estudios y Conocimientos obtenidos | Studies and Knowledge obtained

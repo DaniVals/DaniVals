@@ -6,40 +6,54 @@
 	</p>
 </div>
 
+#### Team vscode
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=obsidian" />
 
 
 ## Estudios y Conocimientos obtenidos | Studies and Knowledge obtained
 
-**Team vscode**
-<br>
-<img src="https://skillicons.dev/icons?i=vscode" />
 
 #### Desarrollo de Aplicaciones Web | Development of Web Services
 <p align="flex">
 	<img src="https://skillicons.dev/icons?i=java" />
-	<img src="https://skillicons.dev/icons?i=javascript" />
 	<img src="https://skillicons.dev/icons?i=php" />
+	<img src="https://skillicons.dev/icons?i=javascript" />
+	<img src="https://skillicons.dev/icons?i=html" />
+	<img src="https://skillicons.dev/icons?i=css" />
+	<img src="https://skillicons.dev/icons?i=git" />
 	<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 <p align="flex">
-	<img src="https://skillicons.dev/icons?i=html" />
-	<img src="https://skillicons.dev/icons?i=css" />
-	<img src="https://skillicons.dev/icons?i=docker" />
+	<img src="https://skillicons.dev/icons?i=spring" />
+	<img src="https://skillicons.dev/icons?i=symfony" />
 	<img src="https://skillicons.dev/icons?i=github" />
+	<img src="https://skillicons.dev/icons?i=docker" />
+	<img src="https://skillicons.dev/icons?i=ubuntu" />
+	<img src="https://skillicons.dev/icons?i=eclipse" />
+	<img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
+#### Autodidacta | Autodidactism
+<p align="flex">
+	<img src="https://skillicons.dev/icons?i=godot" />
+	<img src="https://skillicons.dev/icons?i=unity" />
+	<img src="https://skillicons.dev/icons?i=nodejs" />
+	<img src="https://skillicons.dev/icons?i=mongo" />
+</p>
 
 ## Proyectos | Projects
 <p align="flex">
-  <a align="center" href="https://danivals.github.io" target="_blank"> <img src="https://img.shields.io/badge/My%20website-danivals.github.io-blue"></a>
-  <a align="center" href="https://github.com/DaniVals/Colorful-Callouts-for-Obsidian" target="_blank"> <img src="https://img.shields.io/badge/Colorful%20Callouts-for%20Obsidian-purple"></a>
+  <!-- <a align="center" href="https://danivals.github.io" target="_blank"> <img src="https://img.shields.io/badge/My%20website-danivals.github.io-blue"></a> -->
+  <a align="center" href="https://github.com/DaniVals/Practica-DW2AES-2" target="_blank"> <img src="https://img.shields.io/badge/Social%20Media-ShadowGram-purple?logo=symfony&style=for-the-badge"></a>
+  <a align="center" href="https://github.com/DaniVals/Colorful-Callouts-for-Obsidian" target="_blank"> <img src="https://img.shields.io/badge/Colorful%20Callouts-for%20Obsidian-976deb?logo=obsidian&style=for-the-badge"></a>
 </p>
 
 
 ## Contacto | contact
 <p align="flex">
-  <a align="center" href="https://linktr.ee/danielVals" target="_blank"><img src="https://img.shields.io/badge/linktree-danielVals-green_"></a>
-  <a align="center" href="mailto:daniel.vals.simon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-daniel.vals.simon@gmail.com-red"></a>
+  <a align="center" href="https://linktr.ee/danielVals" target="_blank"><img src="https://img.shields.io/badge/linktree-danielVals-green_?logo=linktree&style=for-the-badge"></a>
+  <a align="center" href="mailto:daniel.vals.simon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-daniel.vals.simon@gmail.com-red?logo=gmail&style=for-the-badge"></a>
   <br>
 </p>
 

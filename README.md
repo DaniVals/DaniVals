@@ -13,10 +13,10 @@
 </p>
 
 
-## Estudios y Conocimientos obtenidos | Studies and Knowledge obtained
+## Estudios y Conocimientos | Studies and Knowledge 
 
 
-#### Desarrollo de Aplicaciones Web | Development of Web Services
+#### Desarrollo de Aplicaciones Web | Web Services Development
 <p align="flex">
 	<img src="https://skillicons.dev/icons?i=java" />
 	<img src="https://skillicons.dev/icons?i=php" />

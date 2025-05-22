@@ -65,7 +65,7 @@
 <p align="flex">
 	<img src="https://github-readme-stats.vercel.app/api?username=danivals&custom_title=GitHub%20%Stats&layout=compact&title_color=00ffcc&icon_color=00cc99&theme=transparent&show_icons=true&count_private=true"	alt="videosboy's GitHub stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivals&custom_title=Top%20%Languages&layout=compact&title_color=00ffcc&theme=transparent&langs_count=10&hide=Hack&count_private=true" alt="Top Languages" />
-	<a href="https://www.codewars.com/users/daniel.vs" target="_blank">
+	<a href="https://www.codewars.com/users/dani.vs" target="_blank">
 	<img src="https://www.codewars.com/users/dani.vs/badges/large" alt="Codewars"/>
 	</a>
 	<br>

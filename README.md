@@ -66,7 +66,7 @@
 	<img src="https://skillicons.dev/icons?i=docker" />
 	<img src="https://skillicons.dev/icons?i=azure" />
 	<img src="https://skillicons.dev/icons?i=maven" />
-	<img src="https://skillicons.dev/icons?i=swagger" />
+	<img src="https://s3.amazonaws.com/kinlane-productions2/api-evangelist/swagger/swagger-round.png" style="width: 48px; border-radius: 10px" />
 	<img src="https://skillicons.dev/icons?i=postman" />
 	<img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
